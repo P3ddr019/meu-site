@@ -1,0 +1,108 @@
+body {
+	background-color: #B0C4DE;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+ul {
+	font-size: 23px;
+}
+
+hr {
+	border-color: #FFF;
+}
+
+footer {
+	border-top: solid 3px #fff;
+}
+
+.form-control {
+	width: 300px;
+	font-size: 18px;
+}
+
+.btn-outline-light {
+	transition: 0.4s;
+}
+
+.container-lg {
+	border: solid 4px #fff;
+	background-color: #1C1C1C;
+}
+
+.bn:hover {
+	background-color: #00CD66;
+}
+
+.col-md-4 {
+	display: flex;
+}
+
+.card-img-top {
+	width: 100%;
+	height: 450px;
+	padding: 50px;
+	background-color: #fff;
+}
+
+.btn-outline-success:hover {
+	transition: 0.4s;
+}
+
+#text1 {
+	background-color: #FFF;
+	border: 3px solid #000;
+}
+
+#headn {
+	background-color: #869cb8;
+	padding: 30px;	
+	border-bottom: 3px solid white
+}
+
+@media only screen and (max-width: 990px) {
+  .padd {
+    padding: 20px;
+  }
+}
+
+@media only screen and (max-width: 990px) {
+  #bar img{
+    width: 90px;
+  }
+}
+
+@media only screen and (max-width: 707px) {
+  #bar img{
+    width: 45px;
+  }
+}
+
+@media only screen and (max-width: 995px) {
+  .pad {
+    padding: 20px;
+  }
+}
+
+@media only screen and (min-width: 1600px) {
+  .card-img-top {
+    height: 650px;
+  }
+}
+
+@media only screen and (max-width: 1600px) {
+  .card-img-top {
+    height: 100%;
+  }
+}
+
+@media only screen and (max-width: 1300px) {
+  .card-img-top {
+    height: 100%;
+  }
+}
+
+@media only screen and (max-width: 550px) {
+  .card-img-top {
+    height: 100%;
+  }
+}
